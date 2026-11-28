@@ -1,188 +1,103 @@
-<!-- ============================================================ -->
-<!--           SHIMOKEVIN · PROFESSIONAL GITHUB PROFILE           -->
-<!-- ============================================================ -->
+<div align="center">
 
-<p align="center">
-  <img src="./banner.svg" alt="Shimokevin Banner" width="100%"/>
-</p>
+<img src="assets/profile.jpg" width="180" height="180" alt="S. Kevin" style="border-radius:50%; border: 4px solid #7C3AED;" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/KevinDev">
-    <img src="https://img.shields.io/badge/LinkedIn-KevinDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Shimokevin">
-    <img src="https://img.shields.io/badge/X-@Shimokevin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:shimokevin08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shimokevin08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/KeshPro">
-    <img src="https://img.shields.io/badge/GitHub-KeshPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+# Hi, I'm S. Kevin 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KeshPro&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/KeshPro?label=Followers&style=flat-square&color=2F81F7" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-6E40C9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Freelancer+%7C+Open+to+Collaboration;Building+web+%26+mobile+apps+from+Kigali%2C+Rwanda" alt="Typing SVG" />
+
+📍 Kigali, Rwanda &nbsp;•&nbsp; 🎓 Software Engineering Student &nbsp;•&nbsp; 💼 Freelancing & Open to Collaboration
+
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimokevin08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM-HANDLE)
+[![Facebook](https://img.shields.io/badge/Facebook-7C3AED?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-FACEBOOK-HANDLE)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-**Full-Stack Developer** based in **Kigali, Rwanda** — building clean APIs on the backend and smooth, reliable UIs on the frontend. I care about code that's easy to read, systems that scale, and products that feel fast.
-
-I enjoy working across the entire stack — from designing database schemas and REST endpoints to shipping polished interfaces. My focus is **building things that actually solve a problem**, not just things that compile.
-
-- 🔭 Currently building: **SaveTube Downloader** & **Healthcare Management System**
-- 🌱 Exploring: **scalable backend architecture · API design · clean UI systems**
-- 💬 Ask me about: **Backend development · Frontend development · Full-stack architecture**
-- 📍 Based in **Kigali, Rwanda** — open to remote collaboration
+I'm a **Full Stack Developer** and university student studying **Software Engineering**. I build web platforms, mobile apps, and games, from networking tools and school management systems to property management platforms. I'm currently **freelancing** and **open to collaboration** on interesting projects.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages
+![PHP](https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7C3AED?style=flat-square&logo=dart&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-7C3AED?style=flat-square&logo=solidity&logoColor=white)
 
-**Frontend**
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-7C3AED?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-7C3AED?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7C3AED?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
 
-**Backend**
+### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-7C3AED?style=flat-square&logo=androidstudio&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix_Ethereum-7C3AED?style=flat-square&logo=ethereum&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-7C3AED?style=flat-square&logo=brave&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎬 SaveTube Downloader</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/⭐-Featured-2F81F7?style=flat-square" alt="Featured"/>
-        <img src="https://img.shields.io/badge/Full--Stack-6E40C9?style=flat-square" alt="Full Stack"/>
-      </p>
-      <p align="center">
-        A fast, reliable video downloader that lets users fetch and save media with a clean, responsive interface and a robust backend.
-      </p>
-      <p align="center">
-        <a href="https://github.com/KeshPro">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Healthcare Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full--Stack-6E40C9?style=flat-square" alt="Full Stack"/>
-        <img src="https://img.shields.io/badge/Management-0A66C2?style=flat-square" alt="Management"/>
-      </p>
-      <p align="center">
-        A full-stack platform for managing patients, appointments, and medical records — built with secure authentication and a clean admin dashboard.
-      </p>
-      <p align="center">
-        <a href="https://github.com/KeshPro">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 LDN Programmer</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Web-2F81F7?style=flat-square" alt="Web"/>
-        <img src="https://img.shields.io/badge/Frontend-6E40C9?style=flat-square" alt="Frontend"/>
-      </p>
-      <p align="center">
-        A developer-focused web project exploring modern frontend patterns, responsive layouts, and clean UI components.
-      </p>
-      <p align="center">
-        <a href="https://github.com/KeshPro">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 More Projects</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Explore-2F81F7?style=flat-square" alt="Explore"/>
-      </p>
-      <p align="center">
-        Browse my repositories to see what I'm building — from backend APIs to full-stack applications and frontend experiments.
-      </p>
-      <p align="center">
-        <a href="https://github.com/KeshPro?tab=repositories">
-          <img src="https://img.shields.io/badge/All_Repos-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech |
+|:--|:--|:--|
+| 📥 **kevisDownloader** | Platform for downloading videos or audio from YouTube, Instagram, TikTok, and Facebook | JavaScript, Vue.js |
+| 🌐 **Subnetify** | Networking tools: DNS calculator, IP address lookup, and subnetting calculations | JavaScript, React |
+| 📸 **PhynoStudio** | Platform connecting clients and photographers, with picture sharing, messaging, and video | Dart, Flutter |
+| 🏫 **LDN Program** | School management system covering financial management, learner tickets, kitchen tables, and material tracking | PHP, MySQL |
+| 🎮 **Games** | Browser and mobile games, including Kecar Racing, Kebike Racing, and Dam (Checkers) | JavaScript, Python |
+| 🏠 **MaiHouse** | Platform helping landlords manage their houses, departments, and rooms | PHP, MySQL, Tailwind CSS |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeshPro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=6E40C9&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshPro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=8B949E&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshPro&theme=tokyonight&hide_border=true&background=00000000&ring=2F81F7&fire=6E40C9&currStreakLabel=2F81F7" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=shimo-Dev08&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=7C3AED&text_color=374151&ring_color=7C3AED" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimo-Dev08&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=374151" alt="Top Languages" height="170" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Trophies
 
-<p align="center">
-  I'm always open to collaborating on interesting projects or talking about backend architecture, clean UI, and full-stack development.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:shimokevin08@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/KevinDev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Shimokevin">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=shimo-Dev08&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/KeshPro">Shimokevin</a> — Kigali, Rwanda 🇷🇼</i>
-</p>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [shimokevin08@gmail.com](mailto:shimokevin08@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 📷 **Instagram:** [instagram.com/YOUR-INSTAGRAM-HANDLE](https://instagram.com/YOUR-INSTAGRAM-HANDLE)
+- 👥 **Facebook:** [facebook.com/YOUR-FACEBOOK-HANDLE](https://facebook.com/YOUR-FACEBOOK-HANDLE)
+
+<div align="center">
+
+💬 *Open to freelance projects and collaboration. Let's build something great together!*
+
+</div>
